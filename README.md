@@ -5,7 +5,7 @@
 <img src="./release/loading_screen.png" width="200">
 <img src="./release/in_game.png" width="200">
 
-## Project PDF
+## Project Report
 
 [Lowrider Mobile Game Report EDA075 Mobile Computer Graphics](./release/Project_Lowrider.pdf)
 
