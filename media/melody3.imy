@@ -1,0 +1,8 @@
+BEGIN:IMELODY
+VERSION:1.2
+FORMAT:CLASS1.0
+NAME:vib3
+BEAT:200
+STYLE:S1
+Melody:(ledonr1ledoff@3ledonr2ledoff@3ledonr3ledoff@3)
+END:IMELODY 

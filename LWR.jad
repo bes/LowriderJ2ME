@@ -1,0 +1,8 @@
+MIDlet-Version: 0.2.0
+MIDlet-Icon: /image/midlet-icon.png
+MIDlet-Vendor: Magnus Borg, Erik Zivkovic
+MIDlet-Jar-URL: LWR.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Game,/image/midlet-icon.png,render.LWRMain
+MIDlet-Name: LowRider
