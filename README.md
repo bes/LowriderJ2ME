@@ -11,7 +11,7 @@
 
 ## Winners of course competition
 
-This game won the EDA075 2005 class competition, [mentioned in this PDF](./release/EDA075-winners.pdf) from the course the year after
+This game won the EDA075 2005 class competition, [mentioned in this PDF](./release/EDA075-winners.pdf) from the course a couple of years after.
 
 ## How to run
 
